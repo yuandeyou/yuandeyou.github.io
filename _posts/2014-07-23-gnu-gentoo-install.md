@@ -17,14 +17,10 @@ wget http://mirrors.163.com/gentoo/releases/x86/current-iso/install-x86-minimal-
 wget http://mirrors.xmu.edu.cn/gentoo/releases/amd64/current-iso/install-amd64-minimal-20140717.iso
 {% endhighlight %}
 
-![okosdf][http://havee.me/assets/images/2014/07/git-branch.png]
-
-![o][http://havee.me/assets/images/2014/07/git-branch.png]
-
-![o](http://havee.me/assets/images/2014/07/git-branch.png)
-
 制作USB启动盘，windows 系统可用
+
 <!-- more -->
+
 ### 网络ssh ###
 {% highlight bash  %}
 ifconfig wlp3s0 10.10.10.20 netmask 255.255.255.0 up
