@@ -1,3 +1,4 @@
+timezone: Asia/Shanghai 
 # 链接样式，参考 http://jekyllrb.com/docs/permalinks
 permalink: /blog/:categories/:year-:month/:title.html
 
@@ -116,5 +117,3 @@ JB :
       
 fk : on
 pl : on
-
-timezone: Asia/Shanghai
