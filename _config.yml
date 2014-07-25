@@ -116,3 +116,5 @@ JB :
       
 fk : on
 pl : on
+
+timezone: Asia/Shanghai
