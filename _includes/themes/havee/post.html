@@ -13,7 +13,7 @@
       </h2>
 	  <div class="bottom">
 		<span class="glyphicon glyphicon-user"></span><p>{{ site.author.name }}</p>
-	    <span class="glyphicon glyphicon-calendar"></span><p>{{ page.date | date_to_string }}</p>
+	    <span class="glyphicon glyphicon-calendar"></span><p>{{ page.date | date_to_rfc822 }}</p>
 		<span class="glyphicon glyphicon-folder-open"></span> {% if page.categories %}{% for category in page.categories %}<a href="/categories.html#{{ category }}-ref" title="{{ category }}"><p>{{ category }}</p></a>{% endfor %}{% endif %}
 		<span class="glyphicon glyphicon-tags"></span> {% if page.tags %}{% for tag in page.tags %}<a href="/tags.html#{{ tag }}-ref" title="{{ tag }}"><p>{{ tag }}</p></a>{% endfor %}{% endif %}
       </div>
