@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "GNU Gentoo Linux 安装"
-description: "GNU Gentoo Linux 安装, kernel, xorg, emacs, fcitx, awesome, 五笔输入法。通过U盘安装 GNU Gentoo Linux, 配置Xorg、Alsa声卡、Awesome窗口管理器、Fcitx五笔输入法、Urxvt、GNU Emacs以及最新版Firefox浏览器。"
-keywords: "gnu, linux, gentoo, emerge, fcitx, emacs, 五笔"
+description: "yuandeyou,袁德优，GNU Gentoo Linux 安装, kernel, xorg, emacs, fcitx, awesome, 五笔输入法。通过U盘安装 GNU Gentoo Linux, 配置Xorg、Alsa声卡、Awesome窗口管理器、Fcitx五笔输入法、Urxvt、GNU Emacs以及最新版Firefox浏览器。"
+keywords: "yuandeyou,袁德优，gnu, linux, gentoo, emerge, fcitx, emacs, 五笔"
 category: Gentoo
 tags: [gentoo,install]
 date: 2014-07-25 15:42:13 +0800
