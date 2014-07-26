@@ -14,8 +14,8 @@ redcarpet:
 # 核心设置
 title : 袁德优
 #tagline: Site Tagline
-keywords : 袁德优, Yuan Deyou, GNU, Linux, Gentoo, Emacs, Lisp.
-description: 袁德优, Yuan Deyou, GNU, Linux, Gentoo, Emacs, Lisp.
+keywords : 袁德优, Yuan Deyou, yuandeyou, GNU, Linux, Gentoo, Emacs, Lisp.
+description: 袁德优, Yuan Deyou, GNU, yuandeyou, Linux, Gentoo, Emacs, Lisp.
 author :
   name : Yuan Deyou
   email :
