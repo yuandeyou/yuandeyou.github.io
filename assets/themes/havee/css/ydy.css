@@ -1,0 +1,32 @@
+.codetitle {
+	font-size: 0.9em;	
+#	font-family: Helvetica, sans-serif, Verdana, Arial;
+#	padding: 0.25em;
+	margin-left: 1.0em;
+	margin-top: 0;
+	margin-bottom: 0;
+	color: #ffffff;
+	font-weight: bold
+}
+
+
+.ntable {
+	padding: 0em;
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
+.command {
+    color: black;
+    font-size: 110%;
+    font-weight: bold;
+}
+
+.output {
+    color: green;
+}
+
+.comment {
+    color: red;
+    font-weight: bold;
+}

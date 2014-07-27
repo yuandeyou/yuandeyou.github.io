@@ -299,9 +299,9 @@ emerge-webrsync
 
     www-client/firefox
 
-`/etc/portage/package.mask`:
+`/etc/portage/package.mask`: 屏蔽软件包
 
-`/etc/portage/package.unmask`:
+`/etc/portage/package.unmask`: 解除屏蔽
 
 `/var/log/emerge.log`:
        Contains a log of all emerge output. This file is always appended to, so if you want to clean it, you need to do so manually.
@@ -312,5 +312,8 @@ emerge-webrsync
 `/var/log/portage/elog/summary.log`:
        Contains the emerge summaries. Installs /etc/logrotate/elog-save-summary.
 
+{% highlight bash  %}
+emerge --info # 输出编译所使用到的所有配置
+{% endhighlight %}
   
 
