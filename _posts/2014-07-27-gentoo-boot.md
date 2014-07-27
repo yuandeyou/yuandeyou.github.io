@@ -156,3 +156,4 @@ title Gentoo Linux Offline Usage
   root (hd0,0)
   kernel (hd0,0)/kernel-2.4.25 root=/dev/hda3 softlevel=offline
 {% endhighlight %}
+
