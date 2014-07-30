@@ -15,7 +15,6 @@
 		<span class="glyphicon glyphicon-user"></span><p>{{ site.author.name }}</p>
 	    <!-- <span class="glyphicon glyphicon-calendar"></span><p>{{ page.date | date: "%A, %Y-%m-%d %H:%M:%S +0008" }}</p> -->
 	    <span class="glyphicon glyphicon-calendar"></span><p>{{ page.date | date: "%A," }} {{ page.date }}</p>
-	    <span class="glyphicon glyphicon-calendar"></span><p>{{ page.datee }}</p>
 		<span class="glyphicon glyphicon-folder-open"></span> {% if page.categories %}{% for category in page.categories %}<a href="/categories.html#{{ category }}-ref" title="{{ category }}"><p>{{ category }}</p></a>{% endfor %}{% endif %}
 		<span class="glyphicon glyphicon-tags"></span> {% if page.tags %}{% for tag in page.tags %}<a href="/tags.html#{{ tag }}-ref" title="{{ tag }}"><p>{{ tag }}</p></a>{% endfor %}{% endif %}
       </div>
