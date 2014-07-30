@@ -38,3 +38,9 @@ p {
 .dazi {
     font-size: xx-large;
 }
+
+
+.back-to {bottom: 35px;overflow:hidden;position:fixed;right:10px;z-index:999;}
+.back-to .back-top {background: url("/assets/images/top.png") no-repeat scroll 0 0 transparent;display: block;float: right;height:50px;margin-left: 10px;outline: 0 none;text-indent: -9999em;width: 50px;}
+.back-to .back-top:hover {background-position: -50px 0;}
+opacity: .6;
