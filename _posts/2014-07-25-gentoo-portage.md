@@ -5,7 +5,7 @@ description: "yuandeyou,袁德优，gentoo portage 的使用"
 keywords: "yuandeyou,袁德优，GNU Gentoo Linux, portage"
 category: gentoo
 tags: [gentoo,portage]
-date: 2014-07-25 18:25:39 +0800
+datee: 2014-07-25 18:25:39 +0800
 ---
 {% include JB/setup %}
 

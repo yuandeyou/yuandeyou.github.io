@@ -1,12 +1,11 @@
 ---
 layout: post
 title: "GNU Gentoo Linux 启动过程"
-datee: "2014-07-27 09:38:28 +0800"
 description: "yuandeyou,袁德优，简述GNU Gentoo Linux 的启动过程。"
 keywords: "yuandeyou,袁德优，GNU Gentoo Linux, boot, 启动"
 category: gentoo
 tags: [boot,init,runlevel]
-
+datee: "2014-07-27 09:38:28 +0800"
 ---
 {% include JB/setup %}
 
