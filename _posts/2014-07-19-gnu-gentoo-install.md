@@ -5,7 +5,8 @@ description: "yuandeyou,袁德优，GNU Gentoo Linux 安装, kernel, xorg, emacs
 keywords: "yuandeyou,袁德优，gnu, linux, gentoo, emerge, fcitx, emacs, 五笔"
 category: Gentoo
 tags: [gentoo,install]
-datee: "2014-07-25 15:42:13 +0800"
+datee: "2014-07-19 14:51:38 +0800"
+
 ---
 {% include JB/setup %}
 
