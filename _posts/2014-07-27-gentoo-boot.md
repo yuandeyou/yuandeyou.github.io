@@ -6,6 +6,7 @@ keywords: "yuandeyou,袁德优，GNU Gentoo Linux, boot, 启动"
 category: gentoo
 tags: [boot,init,runlevel]
 date: 2014-07-27 09:38:28 +0800
+datee: 2014-07-27 09:38:28 +0800
 ---
 {% include JB/setup %}
 
