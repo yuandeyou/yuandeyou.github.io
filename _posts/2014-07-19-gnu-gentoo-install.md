@@ -499,7 +499,6 @@ X Window System, Xorg 交换：
 
 ### fcitx 五笔输入法 ###
 
-
 {% highlight bash  %}
 echo "app-i18n/fcitx autostart pango table" >> /etc/portage/package.use
 emerge app-i18n/fcitx

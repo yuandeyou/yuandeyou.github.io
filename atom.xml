@@ -18,7 +18,7 @@ title : {{ page.title | xml_escape }}
   <entry>
     <title>{{ post.title | xml_escape }}</title>
     <link href="{{ site.production_url }}{{ post.url }}"/>
-    <updated>{{ post.date | date_to_xmlschema }}</updated>
+    <updated>{{ post.datee | date_to_xmlschema }}</updated>
     <id>{{ site.production_url }}{{ post.id }}</id>
     <content type="html">{{ post.content | strip_html | truncate:300 | xml_escape }}</content>
   </entry>
