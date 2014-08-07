@@ -5,7 +5,7 @@ description: "yuandeyou,袁德优，Gentoo Fcitx Firefox 光标跟随问题"
 keywords: "yuandeyou,袁德优，Gentoo Fcitx Firefox 光标跟随问题"
 category: gentoo
 tags: [fcitx,firefox,问题]
-datee: 2014-08-06 18:43:52 +0800
+datee: "2014-08-06 18:43:52 +0800"
 ---
 {% include JB/setup %}
 

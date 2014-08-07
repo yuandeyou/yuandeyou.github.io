@@ -5,7 +5,7 @@ description: "yuandeyou,袁德优，GNU Gentoo Linux  Emacs Scrot 截图"
 keywords: "yuandeyou,袁德优，GNU Gentoo Linux  Emacs Scrot 截图"
 category: emacs
 tags: [scrot,emacs,截图]
-datee: 2014-08-07 08:22:18 +0800
+datee: "2014-08-07 08:22:18 +0800"
 ---
 {% include JB/setup %}
 
