@@ -46,9 +46,9 @@ p {
 opacity: .6;
 
 h3 {
-	color:#080;
-	margin: 40px 0px 10px 0px;
-	border-left: green solid thick;
-	padding: 10px 0px 10px 10px;
-	background-color: #f8f8f8;
+	color:#080 !important;
+	margin: 40px 0px 10px 0px !important;
+	border-left: green solid thick !important;
+	padding: 10px 0px 10px 10px !important;
+	background-color: #f8f8f8 !important;
 }
