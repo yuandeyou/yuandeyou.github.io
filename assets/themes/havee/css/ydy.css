@@ -44,3 +44,11 @@ p {
 .back-to .back-top {background: url("/assets/images/top.png") no-repeat scroll 0 0 transparent;display: block;float: right;height:50px;margin-left: 10px;outline: 0 none;text-indent: -9999em;width: 50px;}
 .back-to .back-top:hover {background-position: -50px 0;}
 opacity: .6;
+
+.wrapper h3 {
+	color:#080;
+	margin: 40px 0px 10px 0px;
+	border-left: green solid thick;
+	padding: 10px 0px 10px 10px;
+	background-color: #f8f8f8;
+}
