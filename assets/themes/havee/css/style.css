@@ -49,7 +49,7 @@ blockquote p{font-style:oblique}table{margin-bottom:20px;max-width:100%;border-c
 }
 
 blockquote, pre {
-	background:#F4F5F7 url(img/blockquote.gif) 3px 3px no-repeat;
+	background:#F4F5F7 url(/assets/images/blockquote.gif) 3px 3px no-repeat;
 	border:1px dashed #CCC;
 	padding:8px 12px 8px 36px;
 	margin:5px 0;
