@@ -45,7 +45,7 @@ p {
 .back-to .back-top:hover {background-position: -50px 0;}
 opacity: .6;
 
-.wrapper h3 {
+h3 {
 	color:#080;
 	margin: 40px 0px 10px 0px;
 	border-left: green solid thick;
