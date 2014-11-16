@@ -42,3 +42,5 @@ Zeitgeist（时代精神）这个词的定义是“一个世代的普遍价值�
 基于已有的人类科技和所有知识的基础，透过理性的思维模式转变，和科学方法的人道运用，我们完全能够合力消除一切的战争、贫困、环境破坏、犯罪等等各种社 会问题以及压力来源，建立起一个人人可以享有安全、健康、快乐以及充分自主选择的新文明及价值体系。时代精神运动内容背后的主要思想来源，是一个在美国佛罗里达州维纳斯镇 (Venus, Florida) 名为“维纳斯计划 (The Venus Project)”的非营利组织，由科学家、未来学家、社会工程师雅克・法斯科 (Jacque Fresco) 所创立。
 
 ![](http://www.thevenusproject.com/images/hdslides/city_systems/xcities06.jpg.pagespeed.ic.htiL1kUbHM.jpg)
+
+![](http://www.thevenusproject.com/images/hdslides/energy/xenergy02.jpg.pagespeed.ic.T-172XBeBc.jpg)
