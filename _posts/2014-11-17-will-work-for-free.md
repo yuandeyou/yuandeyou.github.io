@@ -9,10 +9,6 @@ datee: "2014-11-17 08:39:59 +0800"
 ---
 {% include JB/setup %}
 
-![for free](http://cdn11.trueactivist.com/wp-content/uploads/2013/11/maxresdefault.jpg)
-
-<!-- more -->
-
 {% highlight bash  %}
 年代：2013 类    型：纪录
 地区：英国 制作公司：
@@ -23,6 +19,8 @@ datee: "2014-11-17 08:39:59 +0800"
 主演：Sam Vallely
 IMDB：http://www.imdb.com/title/tt3642358/
 {% endhighlight %}
+
+<!-- more -->
 
 简介：
 
